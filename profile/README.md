@@ -26,4 +26,4 @@ If you want to help our project, you can consider by
 
  ## 📌 Disclaimers & License
 
-This project is under GPL-3.0 License.
+This project is under [GPL-3.0](https://github.com/OfficialYmirBot/.github/blob/main/LICENSE.md) License.

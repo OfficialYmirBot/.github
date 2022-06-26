@@ -11,5 +11,5 @@ Since June 1, 2022, helping servers and getting bigger, thanks to nearly 100k us
 ## ✨ Support
 If you want to help our project, you can consider by
 
-* Buy Me A Coffe ☕️
+* Buy Me A Coffe ☕️\
  <a/> <a href = "discord.comido"><img src = "https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" target = "_blank"> <a/>

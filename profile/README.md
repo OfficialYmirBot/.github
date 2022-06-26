@@ -12,6 +12,8 @@ Since June 1, 2022, helping servers and getting bigger, thanks to nearly 100k us
 If you want to help our project, you can consider by
 
 * Buy Me A Coffe ☕️
+* Buy Me a Ko-Fi
+* Become a Patreon
 
 <p align="center">
  <a href = ""><img src = "https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" target = "_blank">

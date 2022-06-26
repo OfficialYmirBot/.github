@@ -17,3 +17,5 @@ If you want to help our project, you can consider by
  <a/> <a href = "discord.comido"><img src = "https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" target = "_blank"> <a/>
 </p>
 Thanks to everyone who starring & sharing the project 💖
+
+ ## 📌 Disclaimers & License

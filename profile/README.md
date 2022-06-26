@@ -9,7 +9,10 @@ Since June 1, 2022, helping servers and getting bigger, thanks to nearly 100k us
 ## 📜 Information
  A new discord bot with many functions
  If you want to add me [click here](https://discord.com/oauth2/authorize?client_id=981591237301796904&scope=bot+identify+guilds+email+applications.commands&permissions=2080374975)
-### 💬 Social Midia
+#### 💬 Social Midia
+ * Twitch
+ * Discord
+ * Twitter
 ## ✨ Support
 If you want to help our project, you can consider by
 

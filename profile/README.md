@@ -25,3 +25,5 @@ If you want to help our project, you can consider by
 ##### Thanks to everyone who starring & sharing the project 💖
 
  ## 📌 Disclaimers & License
+
+This project is under GPL-3.0 License.
